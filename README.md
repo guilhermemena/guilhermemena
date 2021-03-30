@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @guilhermemena
+- 👀 I’m interested in javascript, typescript, nodeJS and clean architecture.
+- 🌱 I’m currently learning nextJS and design patterns.
